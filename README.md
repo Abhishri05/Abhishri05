@@ -31,4 +31,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishri05&" alt="abhishri05" /></p>
 
+![image](https://github.com/user-attachments/assets/38afb46b-7315-4735-9aac-1230e881fca3)
+![image](https://github.com/user-attachments/assets/a4377a07-1b41-44e0-9d24-c46c76f29b60)
+![image](https://github.com/user-attachments/assets/bcb147b9-069a-422d-86e8-37e55b696503)
+
+
+
 
