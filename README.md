@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishri05](https://github.com/Abhishri05)
 
-- 📫 How to reach me **vickygautam618@gmail.com**
-
-- 📄 Know about my experiences [Abhishri512@gmail.com](Abhishri512@gmail.com)
+- 📫 How to reach me **Abhishri512@gmail.com**
 
 - ⚡ Fun fact **Always looking for a great ambience**
 
